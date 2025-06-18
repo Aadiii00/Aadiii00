@@ -6,7 +6,6 @@
 
 ## 🚀 Tech Stack
 - **Languages**: Python , C
-- **Frameworks/Tools**: Flutter, Pygame, Node.js  
 - **Cybersecurity**: Kali Linux, Burp Suite, Nmap , metasploit
 
 ## 📌 Featured Projects
