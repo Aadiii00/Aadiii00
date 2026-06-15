@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A5ACD,50:7B68EE,100:4B0082&text=Aditya%20B%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6A5ACD,50:7B68EE,100:4B0082&text=Aditya%20B%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=3000\&pause=1000\&color=7B68EE\&center=true\&vCenter=true\&width=1000\&lines=Computer+Science+Engineering+Student;Cybersecurity+%26+Cloud+Security+Enthusiast;Aspiring+Penetration+Tester;Bug+Bounty+Learner;Building+Secure+Digital+Solutions)](https://git.io/typing-svg)
 
@@ -44,18 +44,18 @@
 
 # About Me
 
-I am a passionate **Computer Science Engineering student** with a strong interest in **Cybersecurity, Ethical Hacking, Penetration Testing, Bug Bounty Hunting, and Cloud Security**.
+I am a passionate **Computer Science Engineering Student** with a strong interest in **Cybersecurity, Ethical Hacking, Penetration Testing, Bug Bounty Hunting, and Cloud Security**.
 
-I enjoy understanding how systems work, discovering security vulnerabilities, and continuously improving my technical skills through hands-on learning, practical labs, and real-world projects.
+I enjoy understanding how systems work, identifying vulnerabilities, and continuously improving my technical skills through practical labs, security research, and software development projects.
 
-Currently, I am focused on strengthening my cybersecurity foundation while building software projects and contributing actively on GitHub.
+Currently focused on building a strong foundation in offensive security, web application security, cloud security, and secure software development.
 
 ### Open To
 
 * Cybersecurity Internships
-* Security Research Programs
+* Security Research Opportunities
 * Open Source Contributions
-* Cloud Security Opportunities
+* Cloud Security Learning Programs
 * Technical Collaborations
 
 ---
@@ -83,7 +83,7 @@ Currently, I am focused on strengthening my cybersecurity foundation while build
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,bash"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode"/>
 </p>
 
 ### Cybersecurity Tools
@@ -117,54 +117,39 @@ Currently, I am focused on strengthening my cybersecurity foundation while build
 <details>
 <summary><b>TracxnLabs</b></summary>
 
-### Project Overview
-
-A software development project demonstrating practical programming, problem-solving, and development workflows.
-
-| Metric      | Details                                 |
-| ----------- | --------------------------------------- |
-| Stack       | Web Technologies                        |
-| Scale       | Multi-Module                            |
-| Performance | Optimized Workflow                      |
-| Security    | Secure Coding Practices                 |
-| Impact      | Development Experience                  |
-| Repository  | https://github.com/Aadiiii00/TracxnLabs |
+| Category   | Details                                |
+| ---------- | -------------------------------------- |
+| Stack      | Web Technologies                       |
+| Scale      | Multi-Module Project                   |
+| Security   | Secure Coding Practices                |
+| Impact     | Development Experience                 |
+| Repository | https://github.com/Aadiii00/TracxnLabs |
 
 </details>
 
 <details>
 <summary><b>study-hub-pro</b></summary>
 
-### Project Overview
-
-A project focused on improving learning productivity and educational workflows.
-
-| Metric      | Details                                    |
-| ----------- | ------------------------------------------ |
-| Stack       | Full Stack Development                     |
-| Scale       | Educational Platform                       |
-| Performance | Scalable Design                            |
-| Security    | Authentication Controls                    |
-| Impact      | Student Productivity                       |
-| Repository  | https://github.com/Aadiiii00/study-hub-pro |
+| Category   | Details                                   |
+| ---------- | ----------------------------------------- |
+| Stack      | Full Stack Development                    |
+| Scale      | Educational Platform                      |
+| Security   | Authentication Controls                   |
+| Impact     | Student Productivity                      |
+| Repository | https://github.com/Aadiii00/study-hub-pro |
 
 </details>
 
 <details>
 <summary><b>project-refresh-pro</b></summary>
 
-### Project Overview
-
-A modern development project showcasing technical skills and software engineering practices.
-
-| Metric      | Details                                          |
-| ----------- | ------------------------------------------------ |
-| Stack       | Modern Web Technologies                          |
-| Scale       | Portfolio Project                                |
-| Performance | Responsive Design                                |
-| Security    | Best Practices                                   |
-| Impact      | Technical Showcase                               |
-| Repository  | https://github.com/Aadiiii00/project-refresh-pro |
+| Category   | Details                                         |
+| ---------- | ----------------------------------------------- |
+| Stack      | Modern Web Technologies                         |
+| Scale      | Portfolio Project                               |
+| Security   | Best Practices                                  |
+| Impact     | Technical Showcase                              |
+| Repository | https://github.com/Aadiii00/project-refresh-pro |
 
 </details>
 
@@ -172,16 +157,16 @@ A modern development project showcasing technical skills and software engineerin
 
 # Experience
 
-## Cybersecurity Learner
+### Cybersecurity Learner
 
 **Self-Learning & Practical Labs**
 **2024 – Present**
 
-* Learning ethical hacking methodologies
-* Practicing penetration testing techniques
-* Exploring cloud security concepts
-* Building cybersecurity-focused projects
-* Developing technical documentation
+* Learning Ethical Hacking Methodologies
+* Practicing Penetration Testing Techniques
+* Exploring Cloud Security Concepts
+* Building Cybersecurity Projects
+* Maintaining Technical Documentation
 
 **Skills**
 
@@ -193,10 +178,10 @@ A modern development project showcasing technical skills and software engineerin
 
 | Recognition                | Details                          |
 | -------------------------- | -------------------------------- |
-| 250+ Contributions in 2026 | Active GitHub contributor        |
-| 71 Followers               | Growing developer network        |
-| Open Source Learning       | Continuous development           |
-| Security Skill Development | Practical cybersecurity learning |
+| 250+ Contributions         | Active GitHub Contributor        |
+| 71 Followers               | Growing Developer Community      |
+| Open Source Learning       | Continuous Development           |
+| Security Skill Development | Practical Cybersecurity Learning |
 
 ---
 
@@ -224,21 +209,13 @@ A modern development project showcasing technical skills and software engineerin
 
 <div align="center">
 
-<a href="#">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
 
-<a href="#">
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
-</a>
 
-<a href="#">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge"/>
-</a>
 
-<a href="#">
 <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
-</a>
 
 </div>
 
@@ -248,7 +225,7 @@ A modern development project showcasing technical skills and software engineerin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadiii00&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadiii00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=Aadiii00&theme=tokyonight&hide_border=true"/>
 
@@ -275,6 +252,54 @@ A modern development project showcasing technical skills and software engineerin
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii00&theme=tokyo-night"/>
 
 </div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aadiii00/Aadiii00/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+### Snake Setup
+
+Create:
+
+```text
+.github/workflows/snake.yml
+```
+
+Paste:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Aadiii00
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
@@ -318,7 +343,7 @@ Open_To:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Aadiiii00">
+<a href="https://github.com/Aadiii00">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
