@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:7B68EE,100:4B0082&text=Aditya%20B%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=26\&duration=3000\&pause=1000\&color=7B68EE\&center=true\&vCenter=true\&width=900\&lines=Computer+Science+Engineering+Student;Cybersecurity+Enthusiast;Aspiring+Cloud+Security+Professional;Ethical+Hacking+%7C+Bug+Bounty+Learner;Always+Learning+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=26\&duration=3000\&pause=1000\&color=7B68EE\&center=true\&vCenter=true\&width=900\&lines=Computer+Science+Engineering+Student;Cybersecurity+Enthusiast;Aspiring+Cloud+Security+Professional;Ethical+Hacking+%7C+Bug+Bounty+Learner;Building+Secure+Digital+Solutions)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Karnataka%2CIndia-blueviolet?style=for-the-badge"/>
 
 <br><br>
 
@@ -26,15 +26,15 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YourGitHubUsername">
+<a href="https://github.com/Aadiiii00">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=6A5ACD"/>
-<img src="https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&color=7B68EE"/>
-<img src="https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&color=4B0082"/>
+<img src="https://komarev.com/ghpvc/?username=Aadiiii00&style=for-the-badge&color=6A5ACD"/>
+<img src="https://img.shields.io/github/followers/Aadiiii00?style=for-the-badge&color=7B68EE"/>
+<img src="https://img.shields.io/badge/Contributions-250%2B-success?style=for-the-badge"/>
 
 </div>
 
@@ -42,9 +42,9 @@
 
 # About Me
 
-I am a passionate Computer Science Engineering student with a strong interest in Cybersecurity, Ethical Hacking, Penetration Testing, and Cloud Security.
+I am a Computer Science Engineering student with a strong interest in **Cybersecurity, Ethical Hacking, Penetration Testing, Bug Bounty Hunting, and Cloud Security**.
 
-My goal is to develop expertise in securing modern digital infrastructures, identifying vulnerabilities, and contributing to a safer cyber ecosystem. I continuously enhance my technical knowledge through practical labs, self-learning, hands-on projects, and security research.
+I actively build software projects and maintain repositories on GitHub while continuously learning secure software development and offensive security concepts. With **250+ contributions in 2026**, I focus on practical learning through projects, labs, and real-world security tools.
 
 ### Open To
 
@@ -97,70 +97,58 @@ My goal is to develop expertise in securing modern digital infrastructures, iden
 
 # Cybersecurity Expertise
 
-| Domain              | Proficiency  | Details                                          |
-| ------------------- | ------------ | ------------------------------------------------ |
-| Ethical Hacking     | Intermediate | Security testing fundamentals                    |
-| Penetration Testing | Intermediate | Vulnerability assessment and exploitation basics |
-| Web Security        | Intermediate | OWASP Top 10 and Burp Suite                      |
-| Network Security    | Intermediate | Network scanning and reconnaissance              |
-| Cloud Security      | Beginner     | AWS and Cloud Security Fundamentals              |
-| Bug Bounty          | Beginner     | Responsible disclosure and web testing           |
+| Domain              | Proficiency  | Details                       |
+| ------------------- | ------------ | ----------------------------- |
+| Ethical Hacking     | Intermediate | Security Testing Fundamentals |
+| Penetration Testing | Intermediate | Vulnerability Assessment      |
+| Web Security        | Intermediate | OWASP Top 10 & Burp Suite     |
+| Network Security    | Intermediate | Reconnaissance & Scanning     |
+| Cloud Security      | Beginner     | AWS & Cloud Fundamentals      |
+| Bug Bounty          | Beginner     | Responsible Disclosure        |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Network Vulnerability Scanner</b></summary>
+<summary><b>TracxnLabs</b></summary>
 
-### Project Overview
-
-A security-focused project aimed at discovering open ports, services, and vulnerabilities using network scanning techniques.
-
-| Metric      | Details                 |
-| ----------- | ----------------------- |
-| Stack       | Python, Nmap            |
-| Scale       | Small Networks          |
-| Performance | Fast Discovery          |
-| Security    | Vulnerability Detection |
-| Impact      | Security Awareness      |
-| Repository  | Coming Soon             |
+| Metric      | Details                         |
+| ----------- | ------------------------------- |
+| Stack       | Web Technologies                |
+| Scale       | Multi-module Project            |
+| Performance | Optimized Workflow              |
+| Security    | Secure Coding Practices         |
+| Impact      | Development Experience          |
+| Repository  | github.com/Aadiiii00/TracxnLabs |
 
 </details>
 
 <details>
-<summary><b>Web Security Testing Lab</b></summary>
+<summary><b>study-hub-pro</b></summary>
 
-### Project Overview
-
-Practical web application security testing using Burp Suite and OWASP methodologies.
-
-| Metric      | Details                    |
-| ----------- | -------------------------- |
-| Stack       | Burp Suite, OWASP Labs     |
-| Scale       | Learning Environment       |
-| Performance | Manual Testing             |
-| Security    | Web Vulnerability Analysis |
-| Impact      | Skill Development          |
-| Repository  | Coming Soon                |
+| Metric      | Details                            |
+| ----------- | ---------------------------------- |
+| Stack       | Full Stack Development             |
+| Scale       | Learning Platform                  |
+| Performance | Scalable Architecture              |
+| Security    | Authentication Controls            |
+| Impact      | Educational Productivity           |
+| Repository  | github.com/Aadiiii00/study-hub-pro |
 
 </details>
 
 <details>
-<summary><b>Cybersecurity Notes Repository</b></summary>
+<summary><b>project-refresh-pro</b></summary>
 
-### Project Overview
-
-A GitHub repository containing cybersecurity learning resources, notes, and practical documentation.
-
-| Metric      | Details                 |
-| ----------- | ----------------------- |
-| Stack       | GitHub, Markdown        |
-| Scale       | Personal Knowledge Base |
-| Performance | Continuously Updated    |
-| Security    | Best Practices          |
-| Impact      | Knowledge Sharing       |
-| Repository  | Coming Soon             |
+| Metric      | Details                                  |
+| ----------- | ---------------------------------------- |
+| Stack       | Modern Web Technologies                  |
+| Scale       | Portfolio Project                        |
+| Performance | Responsive Design                        |
+| Security    | Best Practices                           |
+| Impact      | Technical Showcase                       |
+| Repository  | github.com/Aadiiii00/project-refresh-pro |
 
 </details>
 
@@ -173,10 +161,10 @@ A GitHub repository containing cybersecurity learning resources, notes, and prac
 **Self-Learning & Practical Labs**
 **2024 – Present**
 
-* Learning ethical hacking methodologies
-* Performing security assessments in lab environments
+* Learning Ethical Hacking methodologies
+* Practicing penetration testing techniques
 * Exploring cloud security concepts
-* Building practical cybersecurity projects
+* Building cybersecurity-focused projects
 * Maintaining technical documentation
 
 **Skills**
@@ -187,11 +175,12 @@ A GitHub repository containing cybersecurity learning resources, notes, and prac
 
 # Achievements
 
-| Recognition                       | Details                                     |
-| --------------------------------- | ------------------------------------------- |
-| Continuous Cybersecurity Learning | Practical security-focused learning journey |
-| Technical Skill Development       | Hands-on experience with security tools     |
-| GitHub Portfolio Building         | Showcasing projects and learning progress   |
+| Recognition                      | Details                              |
+| -------------------------------- | ------------------------------------ |
+| 250+ GitHub Contributions (2026) | Active development and learning      |
+| 71 GitHub Followers              | Growing developer community          |
+| Open Source Learning             | Continuous project contributions     |
+| Cybersecurity Journey            | Practical security skill development |
 
 ---
 
@@ -215,31 +204,15 @@ A GitHub repository containing cybersecurity learning resources, notes, and prac
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadiiii00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadiiii00&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiiii00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -249,7 +222,7 @@ A GitHub repository containing cybersecurity learning resources, notes, and prac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aadiiii00&theme=tokyonight&row=1&column=7"/>
 
 </div>
 
@@ -259,17 +232,7 @@ A GitHub repository containing cybersecurity learning resources, notes, and prac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiiii00&theme=tokyo-night"/>
 
 </div>
 
@@ -280,24 +243,23 @@ A GitHub repository containing cybersecurity learning resources, notes, and prac
 ```yaml
 Learning:
   - Cloud Security
-  - Web Application Security
+  - Advanced Web Security
   - Penetration Testing
-  - Security Operations
+  - Bug Bounty Hunting
 
 Building:
-  - Security Labs
-  - GitHub Portfolio
-  - Cybersecurity Projects
+  - TracxnLabs
+  - study-hub-pro
+  - Cybersecurity Portfolio
 
 Exploring:
-  - Bug Bounty Hunting
+  - Security Research
   - Ethical Hacking
-  - Cloud Security
+  - Cloud Technologies
 
 Open_To:
-  - Internships
-  - Collaborations
-  - Open Source
+  - Cybersecurity Internships
+  - Open Source Contributions
   - Security Communities
 ```
 
@@ -315,7 +277,7 @@ Open_To:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YourGitHubUsername">
+<a href="https://github.com/Aadiiii00">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
