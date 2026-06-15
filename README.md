@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:7B68EE,100:4B0082&text=Aditya%20B%20P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6A5ACD,50:7B68EE,100:4B0082&text=Aditya%20B%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=26\&duration=3000\&pause=1000\&color=7B68EE\&center=true\&vCenter=true\&width=900\&lines=Computer+Science+Engineering+Student;Cybersecurity+Enthusiast;Aspiring+Cloud+Security+Professional;Ethical+Hacking+%7C+Bug+Bounty+Learner;Building+Secure+Digital+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=3000\&pause=1000\&color=7B68EE\&center=true\&vCenter=true\&width=1000\&lines=Computer+Science+Engineering+Student;Cybersecurity+%26+Cloud+Security+Enthusiast;Aspiring+Penetration+Tester;Bug+Bounty+Learner;Building+Secure+Digital+Solutions)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Location-Karnataka%2CIndia-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-blueviolet?style=for-the-badge"/>
 
 <br><br>
 
@@ -33,7 +33,9 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Aadiiii00&style=for-the-badge&color=6A5ACD"/>
+
 <img src="https://img.shields.io/github/followers/Aadiiii00?style=for-the-badge&color=7B68EE"/>
+
 <img src="https://img.shields.io/badge/Contributions-250%2B-success?style=for-the-badge"/>
 
 </div>
@@ -42,16 +44,18 @@
 
 # About Me
 
-I am a Computer Science Engineering student with a strong interest in **Cybersecurity, Ethical Hacking, Penetration Testing, Bug Bounty Hunting, and Cloud Security**.
+I am a passionate **Computer Science Engineering student** with a strong interest in **Cybersecurity, Ethical Hacking, Penetration Testing, Bug Bounty Hunting, and Cloud Security**.
 
-I actively build software projects and maintain repositories on GitHub while continuously learning secure software development and offensive security concepts. With **250+ contributions in 2026**, I focus on practical learning through projects, labs, and real-world security tools.
+I enjoy understanding how systems work, discovering security vulnerabilities, and continuously improving my technical skills through hands-on learning, practical labs, and real-world projects.
+
+Currently, I am focused on strengthening my cybersecurity foundation while building software projects and contributing actively on GitHub.
 
 ### Open To
 
 * Cybersecurity Internships
 * Security Research Programs
 * Open Source Contributions
-* Cloud Security Learning Opportunities
+* Cloud Security Opportunities
 * Technical Collaborations
 
 ---
@@ -97,14 +101,14 @@ I actively build software projects and maintain repositories on GitHub while con
 
 # Cybersecurity Expertise
 
-| Domain              | Proficiency  | Details                       |
-| ------------------- | ------------ | ----------------------------- |
-| Ethical Hacking     | Intermediate | Security Testing Fundamentals |
-| Penetration Testing | Intermediate | Vulnerability Assessment      |
-| Web Security        | Intermediate | OWASP Top 10 & Burp Suite     |
-| Network Security    | Intermediate | Reconnaissance & Scanning     |
-| Cloud Security      | Beginner     | AWS & Cloud Fundamentals      |
-| Bug Bounty          | Beginner     | Responsible Disclosure        |
+| Domain              | Proficiency  | Details                          |
+| ------------------- | ------------ | -------------------------------- |
+| Ethical Hacking     | Intermediate | Security Testing Fundamentals    |
+| Penetration Testing | Intermediate | Vulnerability Assessment         |
+| Web Security        | Intermediate | OWASP Top 10 & Burp Suite        |
+| Network Security    | Intermediate | Reconnaissance & Enumeration     |
+| Cloud Security      | Beginner     | AWS & Cloud Fundamentals         |
+| Bug Bounty          | Beginner     | Responsible Disclosure & Testing |
 
 ---
 
@@ -113,42 +117,54 @@ I actively build software projects and maintain repositories on GitHub while con
 <details>
 <summary><b>TracxnLabs</b></summary>
 
-| Metric      | Details                         |
-| ----------- | ------------------------------- |
-| Stack       | Web Technologies                |
-| Scale       | Multi-module Project            |
-| Performance | Optimized Workflow              |
-| Security    | Secure Coding Practices         |
-| Impact      | Development Experience          |
-| Repository  | github.com/Aadiiii00/TracxnLabs |
+### Project Overview
+
+A software development project demonstrating practical programming, problem-solving, and development workflows.
+
+| Metric      | Details                                 |
+| ----------- | --------------------------------------- |
+| Stack       | Web Technologies                        |
+| Scale       | Multi-Module                            |
+| Performance | Optimized Workflow                      |
+| Security    | Secure Coding Practices                 |
+| Impact      | Development Experience                  |
+| Repository  | https://github.com/Aadiiii00/TracxnLabs |
 
 </details>
 
 <details>
 <summary><b>study-hub-pro</b></summary>
 
-| Metric      | Details                            |
-| ----------- | ---------------------------------- |
-| Stack       | Full Stack Development             |
-| Scale       | Learning Platform                  |
-| Performance | Scalable Architecture              |
-| Security    | Authentication Controls            |
-| Impact      | Educational Productivity           |
-| Repository  | github.com/Aadiiii00/study-hub-pro |
+### Project Overview
+
+A project focused on improving learning productivity and educational workflows.
+
+| Metric      | Details                                    |
+| ----------- | ------------------------------------------ |
+| Stack       | Full Stack Development                     |
+| Scale       | Educational Platform                       |
+| Performance | Scalable Design                            |
+| Security    | Authentication Controls                    |
+| Impact      | Student Productivity                       |
+| Repository  | https://github.com/Aadiiii00/study-hub-pro |
 
 </details>
 
 <details>
 <summary><b>project-refresh-pro</b></summary>
 
-| Metric      | Details                                  |
-| ----------- | ---------------------------------------- |
-| Stack       | Modern Web Technologies                  |
-| Scale       | Portfolio Project                        |
-| Performance | Responsive Design                        |
-| Security    | Best Practices                           |
-| Impact      | Technical Showcase                       |
-| Repository  | github.com/Aadiiii00/project-refresh-pro |
+### Project Overview
+
+A modern development project showcasing technical skills and software engineering practices.
+
+| Metric      | Details                                          |
+| ----------- | ------------------------------------------------ |
+| Stack       | Modern Web Technologies                          |
+| Scale       | Portfolio Project                                |
+| Performance | Responsive Design                                |
+| Security    | Best Practices                                   |
+| Impact      | Technical Showcase                               |
+| Repository  | https://github.com/Aadiiii00/project-refresh-pro |
 
 </details>
 
@@ -156,16 +172,16 @@ I actively build software projects and maintain repositories on GitHub while con
 
 # Experience
 
-### Cybersecurity Learner
+## Cybersecurity Learner
 
 **Self-Learning & Practical Labs**
 **2024 – Present**
 
-* Learning Ethical Hacking methodologies
+* Learning ethical hacking methodologies
 * Practicing penetration testing techniques
 * Exploring cloud security concepts
 * Building cybersecurity-focused projects
-* Maintaining technical documentation
+* Developing technical documentation
 
 **Skills**
 
@@ -175,12 +191,12 @@ I actively build software projects and maintain repositories on GitHub while con
 
 # Achievements
 
-| Recognition                      | Details                              |
-| -------------------------------- | ------------------------------------ |
-| 250+ GitHub Contributions (2026) | Active development and learning      |
-| 71 GitHub Followers              | Growing developer community          |
-| Open Source Learning             | Continuous project contributions     |
-| Cybersecurity Journey            | Practical security skill development |
+| Recognition                | Details                          |
+| -------------------------- | -------------------------------- |
+| 250+ Contributions in 2026 | Active GitHub contributor        |
+| 71 Followers               | Growing developer network        |
+| Open Source Learning       | Continuous development           |
+| Security Skill Development | Practical cybersecurity learning |
 
 ---
 
@@ -204,13 +220,37 @@ I actively build software projects and maintain repositories on GitHub while con
 
 ---
 
+# Coding Profiles
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
 # GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadiiii00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadiiii00&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Aadiiii00&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiiii00&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -222,7 +262,7 @@ I actively build software projects and maintain repositories on GitHub while con
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aadiiii00&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aadiiii00&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -261,11 +301,12 @@ Open_To:
   - Cybersecurity Internships
   - Open Source Contributions
   - Security Communities
+  - Technical Collaborations
 ```
 
 ---
 
-# Connect
+# Connect With Me
 
 <div align="center">
 
