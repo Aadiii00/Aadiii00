@@ -26,15 +26,15 @@
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/Aadiiii00">
+<a href="https://github.com/Aadiii00">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Aadiiii00&style=for-the-badge&color=6A5ACD"/>
+<img src="https://komarev.com/ghpvc/?username=Aadiii00&style=for-the-badge&color=6A5ACD"/>
 
-<img src="https://img.shields.io/github/followers/Aadiiii00?style=for-the-badge&color=7B68EE"/>
+<img src="https://img.shields.io/github/followers/Aadiii00?style=for-the-badge&color=7B68EE"/>
 
 <img src="https://img.shields.io/badge/Contributions-250%2B-success?style=for-the-badge"/>
 
@@ -248,11 +248,11 @@ A modern development project showcasing technical skills and software engineerin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadiiii00&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadiii00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Aadiiii00&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Aadiii00&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiiii00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiii00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -262,7 +262,7 @@ A modern development project showcasing technical skills and software engineerin
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aadiiii00&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aadiii00&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -272,7 +272,7 @@ A modern development project showcasing technical skills and software engineerin
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiiii00&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiii00&theme=tokyo-night"/>
 
 </div>
 
